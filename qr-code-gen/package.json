@@ -5,7 +5,7 @@
     "build": "react-router build",
     "dev": "shopify app dev",
     "dev:local": "shopify app dev --use-localhost",
-    "dev:tunnel": "shopify app dev --tunnel-url https://ambiguous-bonsai-diabolic.ngrok-free.dev:5000",
+    "dev:tunnel": "shopify app dev --tunnel-url=https://ambiguous-bonsai-diabolic.ngrok-free.dev:5000",
     "config:link": "shopify app config link",
     "generate": "shopify app generate",
     "deploy": "shopify app deploy",
